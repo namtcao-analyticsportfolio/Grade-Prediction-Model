@@ -1,7 +1,7 @@
 # Grade Conversion & Prediction Model
 
 ## Overview
-Linear regression model that predicts student grades and converts between German and Vietnamese grading systems using statistical analysis.
+Linear regression model that predicts student grades and converts between two grading systems using statistical analysis.
 
 ## Business Problem
 Educational institutions need reliable methods to compare and predict academic performance across different grading systems for international student admissions and transfers.
