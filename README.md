@@ -1,7 +1,7 @@
-# Grade Conversion & Prediction Model
+# Grade Conversion and Prediction Model
 
 ## Overview
-Linear regression model that predicts student grades and converts between two grading systems using statistical analysis two education systems. Case study is German & Polish.
+Linear regression model that predicts student grades and converts between two grading systems using statistical analysis two education systems. Case study is German and Polish.
 
 ## Business Problem
 Educational institutions need reliable methods to compare and predict academic performance across different grading systems for international student admissions and transfers.
